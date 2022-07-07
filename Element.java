@@ -18,7 +18,7 @@ public class Element<E>
     }
     
     public Element(int arrivalTime){
-        this.arrivalTime = valuesCSV.
+        
        
     }
     

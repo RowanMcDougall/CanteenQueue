@@ -39,7 +39,7 @@ public class readCSV
             }
         } catch (IOException e) {System.out.println(e);}
         for (int i=0;i<lineCount;i++)
-            System.out.println("at "+AllLinesAllValues[i][0]+" "+AllLinesAllValues[i][1]+" arrived.");
-            
+            System.out.println("at minute "+AllLinesAllValues[i][0]+" "+AllLinesAllValues[i][1]+" students arrived.");
+
     }
 }
