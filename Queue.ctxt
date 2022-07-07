@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Queue
+comment0.text=\r\n\ A\ simple\ queue\ class.\r\n\r\n\ @author\ Rowan\ McDougall\r\n\ @version\ 08/04/2022\r\n
+comment1.params=
+comment1.target=boolean\ queueEmpty()
+comment2.params=addFollower
+comment2.target=void\ enqueue(Element)
+comment3.params=
+comment3.target=Element\ dequeue()
+comment4.params=p
+comment4.target=int\ numBehind(Element)
+comment5.params=
+comment5.target=int\ queueLength()
+numComments=6

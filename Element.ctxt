@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Element
+comment0.text=\r\n\ A\ basic\ generic\ element\ class.\r\n\r\n\ @author\ Rowan\ McDougall\r\n\ @version\ 08/04/2022\r\n
+comment1.params=student
+comment1.target=Element(boolean)
+comment2.params=arrivalTime
+comment2.target=Element(int)
+comment3.params=follower
+comment3.target=void\ setFollower(Element)
+numComments=4

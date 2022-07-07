@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=PQueue
+comment0.text=\r\n\ A\ priority\ queue\ class.\r\n\r\n\ @author\ Rowan\ McDougall\r\n\ @version\ 08/04/2022\r\n
+comment1.params=
+comment1.target=PQueue()
+comment2.params=
+comment2.target=boolean\ queueEmpty()
+comment3.params=addFollower\ high
+comment3.target=void\ enqueue(Element,\ boolean)
+comment4.params=
+comment4.target=Element\ dequeue()
+numComments=5
